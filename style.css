@@ -1,0 +1,46 @@
+/* ? montserat */
+/* font-family: "Montserrat", sans-serif; */
+div .navbar {
+  background-color: aqua;
+}
+.bg-navbar {
+  background-color: #fbefef;
+}
+.bg-navbar2 {
+  background-color: #faeaea;
+}
+.boldest {
+  font-weight: 900;
+}
+.boldest:hover {
+  color: #e570a5;
+  cursor: pointer;
+}
+.profil-log {
+  width: 60px;
+}
+.menu {
+  font-family: "Cabin", sans-serif;
+}
+
+.bebas {
+  font-family: "Bebas Neue", cursive;
+}
+.mont {
+  font-family: "Montserrat", sans-serif;
+}
+.bg-pink {
+  background-color: #e570a5 !important;
+}
+.bg-button {
+  background-color: #e570a5 !important;
+  color: white;
+}
+.bg-button:hover {
+  background-color: #fbefef !important;
+  color: #e570a5;
+}
+
+.bg-footer {
+  background-color: #d9d9d9;
+}
